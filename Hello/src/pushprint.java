@@ -5,6 +5,7 @@ public class pushprint {
 		// TODO Auto-generated method stub
 		System.out.print("add java file");
 		System.out.print("hello in eclipse");
+		System.out.print("Hello");
 		
 		
 		
